@@ -6,8 +6,8 @@
 
 1. Ich bin immernoch zufrieden mit meinen Noten und sehe daher immoment keinen Bedarf für die Module zu arbeiten.
 2. Dass ich eine gute Balance finden kann zwischen etwas für die Module zu machen, aber auch meine Fähigkeiten im Programmieren zu erweitern.
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP4?
+3. Einen Discord Bot programmieren.
+4. Programmieren eines Discord Bots.
 
 ## 20.2.2024
 
