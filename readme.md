@@ -13,7 +13,14 @@
  
 ✍️ Heute habe ich mir als Erstes überlegt, was ich in dieser Lernperiode machen möchte. Ich bin zum Entschluss gekommen, dass ich mit Vincent Kistler einen Discord Bot programmieren möchte. Der Bot Basar wird, bei dem man Emojis traden kann, bei dem es Münzen gibt und Emojis mit verschiedenem Wert.(50 Wörter)
 
-## 30.2.2024
+## 1.3.2024
+
+- [ ] Modul 187 Aufträge Abschliessen(Linux VM installieren, 0704)
+- [ ] Dokumentation dieser Aufträge
+- [ ] Modul 106 Auftrag 2402
+- [ ] Modul 106 Auftrag 2403
+      
+## 8.3.2024
 
 - [ ] Interface mit den Emojis die man kaufen/Traden kann.
 - [ ] Interface für das Inventar
