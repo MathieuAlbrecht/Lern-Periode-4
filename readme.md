@@ -19,6 +19,8 @@
 - [ ] Dokumentation dieser Aufträge
 - [ ] Modul 106 Auftrag 2402
 - [ ] Modul 106 Auftrag 2403
+
+Heute habe ich als Erstes den Auftrag 0704 vom Modul 187 bearbeitet, bei dem es um Softwarelizenzen geht. Danach habe ich die Dokumentation für das Modul 187 soweit fertiggestellt, wie es sein muss. Dann habe ich den Auftrag 2402 über das Thema Backup erledigt. Als Letztes habe ich den Auftrag 2403 angefangen, welchen ich jedoch noch fertigstellen muss. (58 Wörter)
       
 ## 8.3.2024
 
