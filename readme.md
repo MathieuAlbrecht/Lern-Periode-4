@@ -1,5 +1,5 @@
 
-¨# Lern-Periode 4
+# Lern-Periode 4
 
 23.2 bis 5.4.2024
 
@@ -48,9 +48,15 @@ Heute habe ich alle meine Aufträge erfolgreich abgeschlossen. Zuerst habe ich d
 | 4               | Eine Transaktion wird durchgeführt.                 | Die neue Währung wird verwendet.                     | Die Transaktion wird erfolgreich abgeschlossen, und die neue Währung wird verwendet. |          |
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ 
+✍️ Heute haben wir endlich mit unserem Discord bot angefangen. Als Erstes haben wir uns damit beschäftigt, wie man den grundsätzlichen Bot erstellen kann; anschliessend haben wir ihn schon einmal zu einem Server eingeladen. Dies hat uns zuerst einige Komplikationen bereitet, da wir verschiedene Tutorials anschauen mussten. Danach haben wir angefangen, den Code für den Bot zu schreiben. Um zu schauen, was alles möglich ist, haben wir zuerst heute ein Hang man programmiert, welcher jedoch bisher nicht funktioniert, da wir es noch nicht in den Discord Bot einfügen konnten. (89 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+## 22.03.2024
+
+- [ ] Hangman code in unseren Discord Bot einfügen
+- [ ] Ausprobieren und allfällige Fehler beheben
+- [ ] unsere eigentliche Idee versuchen zu verwirklichen
+- [ ] Dokumentation M187 führen
 
 
 
