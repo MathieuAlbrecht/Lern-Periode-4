@@ -68,7 +68,7 @@ Heute am 22.03.2024 habe ich mit Vincent an unserem Discord Bot gearbeitet, da d
 
 | Testfall-Nummer | Ausgangslage (Given)                              | Eingabe (When)                                      | Ausgabe (Then)                                                                   | Erfüllt? |
 | --------------- | --------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------- | -------- |
-| 1               | Der Discord Bot ist offline.                      | Ein Techniker führt die Fehlerbehebung durch, um den Bot online zu bringen. | Der Bot ist erfolgreich online und betriebsbereit.                              |          |
+| 1               | Der Discord Bot ist offline.                      | Programm wird gestartet. | Der Bot ist erfolgreich online und betriebsbereit.                              |          |
 | 2               | Der Discord Bot ist online, reagiert jedoch nicht. | Ein Benutzer sendet eine Testnachricht an den Bot. | Der Bot antwortet angemessen auf die Testnachricht.                           |          |
 
 
