@@ -59,6 +59,18 @@ Heute habe ich alle meine Aufträge erfolgreich abgeschlossen. Zuerst habe ich d
 - [ ] Dokumentation M187 führen
 
 
+Heute am 22.03.2024 habe ich mit Vincent an unserem Discord Bot gearbeitet, da der Code, den wir mit dem Tutorial geschrieben haben, leider etwas nicht funktioniert hat, habe ich am Ende noch einmal neu angefangen, mit der Idee Schritt für Schritt immer wieder zu testen, nun war der erste Schritt, den Discord Bot online zustellen. Obwohl ich den Code 1zu1 abgeschrieben habe und keine Fehlermeldung aufgetaucht ist, geht mein Discord Bot nicht online; dies möchte ich nächstes Mal beheben, damit mein Bot online gehen kann.
+
+## 5.04.2024
+
+- [ ] Fehlerbehebung, damit der Bot online kommt.
+- [ ] Discord Bot soll Antworten können
+
+| Testfall-Nummer | Ausgangslage (Given)                              | Eingabe (When)                                      | Ausgabe (Then)                                                                   | Erfüllt? |
+| --------------- | --------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------- | -------- |
+| 1               | Der Discord Bot ist offline.                      | Ein Techniker führt die Fehlerbehebung durch, um den Bot online zu bringen. | Der Bot ist erfolgreich online und betriebsbereit.                              |          |
+| 2               | Der Discord Bot ist online, reagiert jedoch nicht. | Ein Benutzer sendet eine Testnachricht an den Bot. | Der Bot antwortet angemessen auf die Testnachricht.                           |          |
+
 
 ## Reflexion
 
