@@ -74,4 +74,10 @@ Heute am 22.03.2024 habe ich mit Vincent an unserem Discord Bot gearbeitet, da d
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+In dieser Lernperiode habe ich mit Vincent Kistler versucht, einen coolen Discord Bot zu programmieren. Am Anfang haben wir jedoch noch an Aufträgen für die Module gearbeitet, da wir fanden, dass das uns helfen, würde für die Module und wir im Zeitplan hintendrein waren. Als wir dann jedoch begonnen haben, haben wir nicht wirklich effektiv gearbeitet und sind nahezu nicht vorwärtsgekommen, wir wollten direkt, dass unser Bot etwas sehr Kompliziertes kann und haben gar nicht getestet, ob wir es schaffen, dass er überhaupt online geht. Da wir dies nicht gemacht hatten, hat unser Code natürlich gar nicht funktioniert. Als Herr Colic uns dann darauf aufmerksam gemacht hat, dass wir dies vielleicht als Erstes tun sollten, haben wir uns entschieden, neu anzufangen und einen simplen Discord-Bot zu programmieren, der zuerst einfach mal online geht und dann auf Nachrichten antworten kann.
+
+# Verbeserungsvorschlag:
+Ich möchte meine Teamfähigkeit verbessern, weshalb wir uns dazu entschieden haben in der nächsten Lernperiode noch einmal zusammen zu arbeiten.
+
+# Idee für die nächste Lernperiode
+Ich möchte mit Vincent eine Webseite mit c# machen, die Webseite soll ein Marketplace werden
